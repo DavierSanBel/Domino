@@ -1,5 +1,4 @@
 # Domino
-Primeros intentos serios de implementar la Lógica de un juego de Dominó de la forma más extensible posible
-
-
-Las versiones más adelantadas del proyecto son aquellas con un cardinal más alto por supuesto
+Ya tengo el proyecto casi casi terminado.
+En el comprimido llamado Casi Casi Final están los últimos cambios que son pequeños cambios en el protocolo de comunicación del backend
+Luego de esto solo me faltaría implementarle algunos jugadores
